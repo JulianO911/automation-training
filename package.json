@@ -1,0 +1,14 @@
+{
+  "name": "training",
+  "version": "1.0.0",
+  "description": "automation training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julian Ospina",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.13.0"
+  }
+}
