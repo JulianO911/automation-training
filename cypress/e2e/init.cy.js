@@ -5,6 +5,6 @@ describe('demoblaze page testing', () => {
 
     it('login in demoblaze', () => {
     cy.visit('')
-
+    
   })
 })
