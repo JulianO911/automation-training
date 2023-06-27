@@ -5,6 +5,6 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
-    baseUrl: "https://www.demoblaze.com/"
+    baseUrl: "https://ecommerce-playground.lambdatest.io/"
   },
 });

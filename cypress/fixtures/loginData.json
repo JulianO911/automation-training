@@ -1,0 +1,18 @@
+{
+    "testCaseLoginFailed1": {
+        "email":"erEmail@gmail.com",
+        "password":"erPassword"
+    },
+
+    "testCaseLoginFailed2": {
+        "email":"emailBlock@gmail.com",
+        "password":"blockPassword"
+    },
+
+    "testCaseLoginSuccess": {
+        "email":"tt@endava.com",
+        "password":"Test/1234",
+        "method": "GET",
+        "url": "https://ecommerce-playground.lambdatest.io/index.php?route=account/account"
+    }
+}
